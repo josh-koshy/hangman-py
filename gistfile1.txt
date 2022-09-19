@@ -42,3 +42,4 @@ elif attempts < 6:
     print("Congrats, you won!")
 else:
     print("Too many attempts , you just died.")
+    
